@@ -27,8 +27,6 @@ A professional solidity Upgradeable Proxy [ERC-1967 Standard](https://eips.ether
     </tr>
 <table>
 
-[Click here](https://mumbai.polygonscan.com/address/0x0b9a65cc2bb4b4c25834c6e943478beb1d9da590#code) to see this implementation on Mumbai Testnet (Polygon Testnet).
-
 ### 🛠️ Features
 
 The OpenZeppelin ERC-1967 Upgradeable Proxy contract offers these main features:
@@ -44,7 +42,7 @@ The core of this project was built using all these great tools:
 - [TypeScript](https://www.typescriptlang.org/) - Typed Programming Language
 - [Hardhat](https://hardhat.org/) - Development Environment for Ethereum Software
 - [Ethers.js](https://ethers.org/) - Web3 Library
-- [OpenZepellin](https://www.openzeppelin.com/) - Web3 Solidity Contract Libraries
+- [OpenZeppelin](https://www.openzeppelin.com/) - Web3 Solidity Contract Libraries
 - [Node.js](https://nodejs.org/) - JavaScript Runtime Environment
 
 In addition, in order to function fully and satisfactorily, this project uses resources from the following services:
